@@ -1,0 +1,11 @@
+c:\users\b1014210\documents\visual studio 2015\Projects\HPNAp\HPNAp\bin\Debug\HPNAp.exe.config
+c:\users\b1014210\documents\visual studio 2015\Projects\HPNAp\HPNAp\bin\Debug\HPNAp.exe
+c:\users\b1014210\documents\visual studio 2015\Projects\HPNAp\HPNAp\bin\Debug\HPNAp.pdb
+c:\users\b1014210\documents\visual studio 2015\Projects\HPNAp\HPNAp\obj\Debug\HPNAp.csprojResolveAssemblyReference.cache
+c:\users\b1014210\documents\visual studio 2015\Projects\HPNAp\HPNAp\obj\Debug\HPNAp.Properties.Resources.resources
+c:\users\b1014210\documents\visual studio 2015\Projects\HPNAp\HPNAp\obj\Debug\HPNAp.csproj.GenerateResource.Cache
+c:\users\b1014210\documents\visual studio 2015\Projects\HPNAp\HPNAp\obj\Debug\HPNAp.exe
+c:\users\b1014210\documents\visual studio 2015\Projects\HPNAp\HPNAp\obj\Debug\HPNAp.pdb
+C:\Users\b1014210\Documents\My-Productions\subjects\HPNAp\HPNAp\bin\Debug\HPNAp.exe.config
+C:\Users\b1014210\Documents\My-Productions\subjects\HPNAp\HPNAp\obj\Debug\HPNAp.exe
+C:\Users\b1014210\Documents\My-Productions\subjects\HPNAp\HPNAp\obj\Debug\HPNAp.pdb
