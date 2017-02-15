@@ -1,0 +1,11 @@
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\bin\Debug\ImageHistogram.exe.config
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\bin\Debug\ImageHistogram.exe
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\bin\Debug\ImageHistogram.pdb
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\bin\Debug\ImagingSolution.Imaging.ImageData.dll
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\bin\Debug\ImagingSolution.Imaging.ImageData.xml
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\obj\Debug\ImageHistogram.csprojResolveAssemblyReference.cache
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\obj\Debug\ImageHistogram.Properties.Resources.resources
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\obj\Debug\ImageHistogram.csproj.GenerateResource.Cache
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\obj\Debug\ImageHistogram.exe
+c:\users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\obj\Debug\ImageHistogram.pdb
+C:\Users\b1014210\documents\visual studio 2015\Projects\ImageHistogram\ImageHistogram\obj\Debug\ImageHistogram.Form1.resources
